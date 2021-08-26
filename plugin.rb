@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-# name: discourse-plugin-name
-# about: TODO
+# name: runcloud-community-notification
+# about: This is a custom notification plugin for RunCloud Community site
 # version: 0.0.1
-# authors: Discourse
-# url: TODO
+# authors: irfanismail
+# url: https://runcloud.io
 # required_version: 2.7.0
 # transpile_js: true
 
